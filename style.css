@@ -1,4 +1,4 @@
-/* Général */
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -7,7 +7,7 @@ body {
     text-align: center;
 }
 
-/* Titre principal */
+
 h1 {
     font-size: 3rem;
     margin-top: 20px;
@@ -15,7 +15,7 @@ h1 {
     text-transform: uppercase;
 }
 
-/* Conteneur pour les liens */
+
 a {
     display: inline-flex;
     align-items: center;
@@ -31,7 +31,7 @@ a {
     transition: background-color 0.3s ease, color 0.3s ease;
 }
 
-/* Icône du drapeau */
+
 a img {
     width: 20px;
     height: 15px;
@@ -39,14 +39,14 @@ a img {
     border-radius: 2px;
 }
 
-/* Effet au survol */
+
 a:hover {
     background-color: white;
     color: #007BFF;
     border-color: #007BFF;
 }
 
-/* Alignement central */
+
 body > a {
     display: inline-block;
 }
